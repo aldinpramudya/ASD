@@ -59,8 +59,8 @@ Kelas  : 1G/D4-TI
 
 1. Barang
 
-<input type = "image" src ="Run Barang.png">
+![Run Barang](Run%20Barang.png)
 
 2. Pacman
 
-<input type = "image" src ="Run Pacman.png">
+![Run Pacman](Run%20Pacman.png)
