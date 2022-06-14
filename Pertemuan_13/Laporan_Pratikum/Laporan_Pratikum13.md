@@ -8,7 +8,7 @@ Kelas : 1G/D4-TI
 
 ## Pertanyaan Percobaan 2.1.2
 
-1. Skip
+1. Karena dalam binary search tree ditujukan untuk pencarian. 
 2. Pada class Node diberikan atribut left dan right agar seabgai pointer untuk menunjukkan data yang di sebelah kanan atau di sebelah kiri tree
 3. 
     a. Atribut root atau akar menunjukkan node khusus yang tidak memiiliki predesesor atau elemen yan pertama
